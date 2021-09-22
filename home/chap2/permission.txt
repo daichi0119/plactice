@@ -1,0 +1,5 @@
+mkdir permission.txt
+ls -ls
+chmod u-x permission.txt
+chmod u=rwx permission.txt
+chmod go=r permission.txt
